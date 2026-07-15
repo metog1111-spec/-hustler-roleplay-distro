@@ -8,10 +8,21 @@
             "icon": "https://your-site.example.com/assets/server-icon.png",
             "version": "1.0.0",
             "address": "test332.mcsh.io",
-            "minecraftVersion": "1.20.1",
+            "minecraftVersion": "1.16.5",
             "mainServer": true,
             "autoconnect": true,
-            "modules": []
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.16.5-36.2.39",
+                    "name": "Forge 1.16.5",
+                    "type": "ForgeHosted",
+                    "artifact": {
+                        "size": 0,
+                        "MD5": "0",
+                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-installer.jar"
+                    }
+                }
+            ]
         }
     ]
 }
