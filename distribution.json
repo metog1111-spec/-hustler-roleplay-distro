@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "servers": [
+        {
+            "id": "HustlerRoleplay-Main",
+            "name": "Hustler Roleplay",
+            "description": "The main Hustler Roleplay server. Connect to start your hustle.",
+            "icon": "https://your-site.example.com/assets/server-icon.png",
+            "version": "1.0.0",
+            "address": "test332.mcsh.io",
+            "minecraftVersion": "1.20.1",
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": []
+        }
+    ]
+}
