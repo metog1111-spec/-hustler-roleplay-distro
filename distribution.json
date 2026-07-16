@@ -21,15 +21,15 @@
                         "MD5": "3fcc9b0104b5b44f5b200e35d2e7d1c6",
                         "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-installer.jar"
                     },
-                    "modules": [
+                    "subModules": [
                         {
-                            "id": "net.minecraftforge:forge:1.16.5-36.2.39:universal",
-                            "name": "Forge 1.16.5 Universal",
-                            "type": "ForgeHosted",
+                            "id": "1.16.5-forge-36.2.39",
+                            "name": "Forge 1.16.5 Version Manifest",
+                            "type": "VersionManifest",
                             "artifact": {
                                 "size": 0,
                                 "MD5": "0",
-                                "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar"
+                                "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-client.json"
                             }
                         }
                     ]
